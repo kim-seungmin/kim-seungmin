@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+https://kinetic.codes/2020/07/14/git-profile/
 <!--
 **kim-seungmin/kim-seungmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
