@@ -1,5 +1,7 @@
 ### Hi there 👋
-https://kinetic.codes/2020/07/14/git-profile/
+https://kinetic.codes/2020/07/14/git-profile/   
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-seungmin)](https://hits.seeyoufarm.com)   
+![kim-seungmin's github stats](https://github-readme-stats.vercel.app/api?username=kim-seungmin&show_icons=true)
 <!--
 **kim-seungmin/kim-seungmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
