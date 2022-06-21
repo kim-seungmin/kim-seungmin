@@ -19,6 +19,10 @@
 | 서브모터+아두이노+어플 | https://blog.naver.com/ksm981204/221091353237 |  
 
 
+책   
+[이것이 취업을 위한 코딩 테스트다 with 파이썬](https://github.com/kim-seungmin/python-for-coding-test)
+
+
 
 
 <!--
