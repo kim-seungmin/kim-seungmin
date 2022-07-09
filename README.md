@@ -10,7 +10,7 @@
 |:---:|:---:|:---:|
 |곡물분류기|https://github.com/kim-seungmin/ULTIMA_public|JAVA 통신 서버|
 |전자정부프레임워크|https://github.com/kim-seungmin/eGov|전자정부프레임워크|
-|영화 소개, 장바구니 웹|https://github.com/kim-seungmin/whants|JSP|
+|Whants(영화 소개, 장바구니 웹)|https://github.com/kim-seungmin/whants|JSP|
 |헬스헬퍼|https://github.com/kim-seungmin/health-helper|ml5를 사용한 웹|
 
 토이 프로젝트
@@ -28,6 +28,7 @@
 |프로그래머스|https://github.com/kim-seungmin/programmers|
 |스프링|https://github.com/kim-seungmin/Spring/tree/master/hello-spring|
 |리엑트|https://github.com/kim-seungmin/movieapp|
+|JS|https://github.com/kim-seungmin/JSS|   
 |이것이 취업을 위한 코딩 테스트다|https://github.com/kim-seungmin/for-coding-test|
 
 그외
