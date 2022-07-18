@@ -12,6 +12,7 @@
 |전자정부프레임워크|https://github.com/kim-seungmin/eGov|전자정부프레임워크|
 |Whants(영화 소개, 장바구니 웹)|https://github.com/kim-seungmin/whants|JSP|
 |헬스헬퍼|https://github.com/kim-seungmin/health-helper|ml5를 사용한 웹|
+|온라인 농업 공유 경제(농기계 임대)|https://github.com/kim-seungmin/osef|
 
 토이 프로젝트
 |이름|링크|
