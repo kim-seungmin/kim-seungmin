@@ -22,6 +22,9 @@
 | 앱인벤터+블루투스 | https://blog.naver.com/ksm981204/221186961409 |     
 | 아두이노+블루투스 | https://blog.naver.com/ksm981204/221153246231 |     
 | 서브모터+아두이노+어플 | https://blog.naver.com/ksm981204/221091353237 |  
+| TCYU | https://github.com/kim-seungmin/TCYU |
+| 트위치 하이라이트 콜렉터| https://github.com/kim-seungmin/HighColl|
+| 라즈베리파이 온도출력 쉘스크립트| https://github.com/kim-seungmin/raspbarry-pi-temperature-shell- |
 
 공부
 |이름|링크|
@@ -29,8 +32,12 @@
 |프로그래머스|https://github.com/kim-seungmin/programmers|
 |스프링|https://github.com/kim-seungmin/Spring/tree/master/hello-spring|
 |리엑트|https://github.com/kim-seungmin/movieapp|
+|JAVA|https://github.com/kim-seungmin/Java100Q|
 |JS|https://github.com/kim-seungmin/JSS|   
+|JSP|https://github.com/kim-seungmin/JSP|
 |이것이 취업을 위한 코딩 테스트다|https://github.com/kim-seungmin/for-coding-test|
+|리팩토링|https://github.com/kim-seungmin/refactoringStudy|
+|아두이노 와이파이 UDP 통신 프로토콜|https://github.com/kim-seungmin/Arduino-wifi-udp|
 
 그외
 | 이름 | 링크 |   
@@ -39,10 +46,8 @@
 | AI | https://github.com/kim-seungmin/AI |     
 | R(word cloud, 크롤링) | https://github.com/kim-seungmin/R |     
 | IP카메라 화면 띄우기 | https://github.com/kim-seungmin/watching-ip-camera |     
-| IP카메라 녹화 | https://github.com/kim-seungmin/capture-ip-camera |      
-
-수업
-
+| IP카메라 녹화 | https://github.com/kim-seungmin/capture-ip-camera |    \
+|캡스톤디자인|https://github.com/kim-seungmin/ICBM-Capstone|
 
 책   
 [이것이 취업을 위한 코딩 테스트다 with 파이썬](https://github.com/kim-seungmin/python-for-coding-test)
