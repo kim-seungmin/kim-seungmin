@@ -2,6 +2,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-seungmin&count_bg=%23FBF1C7&title_bg=%23888686&icon=opsgenie.svg&icon_color=%23EFE8E8&title=hits&text_color=%23EFE8E8&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![kim-seungmin's github stats](https://github-readme-stats.vercel.app/api?username=kim-seungmin&theme=solarized-light&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-seungmin&theme=solarized-light&show_icons=true)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksm)](https://solved.ac/ksm/)<br>
 <!-- 배경색 #fbf1c7 -->
 #
 
